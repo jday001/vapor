@@ -8,7 +8,6 @@ import XCTest
 
 XCTMain([
     // Cache
-    testCase(FluentCacheTests.allTests),
     testCase(MemoryCacheTests.allTests),
 
     // Config
